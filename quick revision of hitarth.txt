@@ -1,0 +1,7 @@
+you have to tell the category like from which category this blocks are related
+
+ 1) show block
+ 2) move 10 steps block
+ 3) wait for 1 second  block
+ 4) when the flag is clicked block
+ 5) forever block

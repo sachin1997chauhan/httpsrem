@@ -1,0 +1,23 @@
+                                    Class 1 
+
+Q-1)  what is coding ?
+ coding is a set of instruction that we provide to our computer to perform a speicific task 
+ 
+ Q-2)instruction 
+ -- supppose  you are thirsty .. and u have to drink the water from the fridge..
+ then what will be the steps.. what is the first thing that u will do
+ step 1)stand 
+ step 2) walk 
+ step 3) open the door
+ step 4)simple
+ 
+Q-3) What is programming languages ?
+ just like we use hindi or english to communicate with each other.. 
+ computer also need a language to communicate with us..
+ that communication language is known as programing lanuage 
+ eg- python ,java, c ,c++, block based programming 
+ 
+Q-4) what is block based coding?
+  when we give instruction in the form of blocks that is known as block based coding..
+  
+  
